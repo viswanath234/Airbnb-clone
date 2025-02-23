@@ -34,7 +34,7 @@ export default function RootLayout({
         >
           <Providers>
             <Navbar />
-            <main className="contaier py-10">{children}</main>
+            <main className="contaier py-10 px-16">{children}</main>
           </Providers>
         </body>
       </html>

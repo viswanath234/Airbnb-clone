@@ -3595,6 +3595,10 @@ Leaflet makes direct calls to the DOM when it is loaded, therefore React Leaflet
 
 ```sh
 npm install react react-dom leaflet react-leaflet
+
+for react 18:
+
+npm install react-leaflet@4 leaflet@1 react@18 react-dom@18
 ```
 
 ```sh

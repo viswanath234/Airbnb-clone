@@ -1,8 +1,7 @@
-import React from "react";
-import Logo from "./Logo";
 import NavSearch from "./NavSearch";
-import DarkMode from "./DarkMode";
 import LinksDropdown from "./LinksDropdown";
+import DarkMode from "./DarkMode";
+import Logo from "./Logo";
 
 function Navbar() {
   return (
@@ -18,5 +17,4 @@ function Navbar() {
     </nav>
   );
 }
-
 export default Navbar;
